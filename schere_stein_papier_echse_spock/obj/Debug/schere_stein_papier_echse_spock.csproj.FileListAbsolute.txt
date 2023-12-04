@@ -1,0 +1,7 @@
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\obj\Debug\schere_stein_papier_echse_spock.csproj.AssemblyReference.cache
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\obj\Debug\schere_stein_papier_echse_spock.csproj.CoreCompileInputs.cache
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\bin\Debug\schere_stein_papier_echse_spock.exe.config
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\bin\Debug\schere_stein_papier_echse_spock.exe
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\bin\Debug\schere_stein_papier_echse_spock.pdb
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\obj\Debug\schere_stein_papier_echse_spock.exe
+C:\Users\alier\source\repos\schere_stein_papier_echse_spock\schere_stein_papier_echse_spock\obj\Debug\schere_stein_papier_echse_spock.pdb
